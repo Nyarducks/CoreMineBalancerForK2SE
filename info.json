@@ -1,0 +1,13 @@
+{
+	"name": "CoreMineBalancerForK2SE",
+	"version": "1.0.0",
+	"title": "Core Mine Balancer For K2 SE",
+	"author": "breadtea",
+	"factorio_version": "1.1",
+	"dependencies": [
+		"base >= 1.1",
+		"space-exploration >= 0.6.95",
+		"? Krastorio2 >= 1.3.8"
+	],
+	"description": "Mods for balancing core mining."
+}
